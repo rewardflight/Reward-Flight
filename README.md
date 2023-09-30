@@ -1,4 +1,4 @@
-# Reward-Flight
+# RewardFlight privacy policy
 
 Your privacy is of paramount importance to us. In fact, we know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. We do not provide your personal information (such as your email) to other companies.
 
