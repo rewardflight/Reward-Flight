@@ -43,7 +43,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 ## Online Advertising We Use
 
-We use Google AdWords Remarketing to advertise trigger across the Internet. AdWords remarketing will display relevant ads tailored to you based on what parts of the VMSNGROUP.com website you have viewed by placing a cookie on your machine. THIS COOKIE DOES NOT IN ANYWAY IDENTIFY YOU OR GIVE ACCESS TO YOUR COMPUTER The cookie is used to say "This person visited this page, so show them ads relating to that page." Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you.
+We use Google AdWords Remarketing to advertise trigger across the Internet. Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you.
 
 How to Opt Out of Remarketing and Advertising If you do not wish to participate in our Google AdWords Remarketing, you can opt out by visiting Google's Ads Preferences Manager
 
