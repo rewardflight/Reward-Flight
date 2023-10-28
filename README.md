@@ -63,7 +63,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 
-## Visiting our website from outside the United States
+## Visiting our website from outside the Europe
 
 If you are visiting our website from outside the Europe, please be aware that your information may be transferred to, stored, and processed in the Europe, where our servers are located and our central database is operated. The data protection and other laws of the Europe and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy.
 
